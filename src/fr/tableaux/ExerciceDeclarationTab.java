@@ -1,5 +1,9 @@
 package fr.tableaux;
 
+
+/**
+ * Exercice sur les tableaux
+ */
 public class ExerciceDeclarationTab {
     public static void main(String[] args) {
         int[] tab = {8, -7, 12, 1, -2, 14, 17, 9};
